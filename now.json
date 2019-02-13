@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "habitica-todoist",
+    "builds": [
+        { "src": "*.js", "use": "@now/node" }
+    ]
+}
